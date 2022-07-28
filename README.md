@@ -1,2 +1,2 @@
-# arquitetura-css
-curso de arquitetura da Alura. 
+# Site Fruta & Fruto
+Site desenvolvido nos estudos de Arquitetura CSS, nele foi aplicato o modelo Atomic Design para a organização do CSS e a metodologia BEM (Bloc Element Model) na nomeação das classes.
